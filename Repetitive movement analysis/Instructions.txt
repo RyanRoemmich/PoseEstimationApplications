@@ -1,0 +1,5 @@
+To execute our repetitive movement analysis, follow the following steps:
+
+1. Analyze your video with OpenPose using either the Run_OpenPose.ipynb notebook (for local analysis) or OpenPose_RepetitiveMovementAnalysis_Colab.ipynb notebook (for Google Colab analysis).
+
+2. Download all files from 'MATLAB processing code' folder. Run OpenPoseMovementAnalysis_HC.m and follow the subsequent prompts. 
